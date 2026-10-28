@@ -29,8 +29,6 @@ There are two radial maps, one for the **House (157 members)** and one for the *
 
 From any legislator's map, a full profile shows every key vote, a breakdown of donor groups, top PACs, committees, and links to sources.
 
-![Vote view: the House colored by each member's vote, with the party split and the members who broke ranks](docs/vote-lens.jpg)
-
 ## Data
 
 All data is public:
