@@ -4,13 +4,15 @@ An interactive map of every sitting member of the Massachusetts Legislature (194
 
 > The source code and data pipeline are in a private repository. This page describes the project. A live demo is available on request.
 
-![Vote view: the House colored by each member's vote on an amendment, with the party split and the members who broke ranks](docs/vote-lens.jpg)
+![Chamber map: the House as a hub with every representative wired to it, colored by party](docs/chamber-map.png)
 
 ## What it shows
 
-There are two diagrams, one for the **House (157 members)** and one for the **Senate (40 members)**. Each legislator is a node wired to five color-coded boxes:
+There are two radial maps, one for the **House (157 members)** and one for the **Senate (40 members)**. The chamber sits at the hub with every legislator wired to it. Clicking a legislator opens their own map: they sit at the hub, wired to five color-coded category bubbles, each with its detail bubbles around it.
 
-| Box | Contents |
+![Legislator map: the member at the hub, with Party, Top donors, Key votes, Platform and Background bubbles](docs/legislator-map.jpg)
+
+| Bubble | Contents |
 |---|---|
 | **Party** | Party, district, leadership post, and a *party unity* score (how often they vote with their own party on contested votes) |
 | **Top donors** | Top three contributors since January 2025, each tagged by group (labor union PAC, industry PAC, lobbyist, real estate, health care, and so on) |
@@ -25,9 +27,9 @@ There are two diagrams, one for the **House (157 members)** and one for the **Se
 - **Issue.** See which members list an issue as a priority, so you can find sponsors and champions.
 - **Party.** Shows the balance of power and the members least likely to vote the party line.
 
-Clicking any member opens a full profile with every key vote, a breakdown of donor groups, top PACs, committees, and links to sources.
+From any legislator's map, a full profile shows every key vote, a breakdown of donor groups, top PACs, committees, and links to sources.
 
-![Member profile: platform, conversation openers, public background and money by donor group](docs/member-profile.jpg)
+![Vote view: the House colored by each member's vote, with the party split and the members who broke ranks](docs/vote-lens.jpg)
 
 ## Data
 
