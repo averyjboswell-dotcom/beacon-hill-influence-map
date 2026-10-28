@@ -15,7 +15,7 @@ There are two radial maps, one for the **House (157 members)** and one for the *
 | Bubble | Contents |
 |---|---|
 | **Party** | Party, district, leadership post, and a *party unity* score (how often they vote with their own party on contested votes) |
-| **Top donors** | Top three contributors since January 2025, each tagged by group (labor union PAC, industry PAC, lobbyist, real estate, health care, and so on) |
+| **Top donors** | Top three organizations since January 2025: PACs and unions by direct giving, and companies by their employees' combined giving (Massachusetts bans direct corporate contributions). Each is tagged by group, such as labor union, lobbying firm, real estate or health care |
 | **Recent key votes** | Their most recent contested roll calls, with votes against their own party flagged |
 | **Platform** | A one-sentence summary of their priorities |
 | **Background & talking points** | Hometown, career, education, military service, and conversation openers drawn from their public record |
