@@ -37,6 +37,10 @@ Search any of the ~9,000 bills filed this session to get a one-page brief:
 
 ![Case brief: committee path with gatekeepers, whip estimate, and ranked targets with tailored arguments](docs/case-brief.jpg)
 
+## Firm portfolio view
+
+The brief tab can be loaded with a lobbying firm's official state disclosures. It then shows every bill the firm reported lobbying on, each client's position (support, oppose or neutral), a breakdown by client industry, and other live bills that match clients' registered issue areas. Each case brief opens with the firm's involvement and adjusts its strategy. When the firm's clients oppose a bill, targets become the gatekeepers who can keep it in committee. A relationship view shows which legislators received campaign contributions from the firm's lobbyists or its clients' PACs and employees.
+
 ## Lenses for case-study work
 
 - **Key vote.** Pick any of 144 contested roll calls. The chamber diagram recolors Yea/Nay, and the side panel shows the party split and lists every member who broke with their party, who are the persuadable middle.
